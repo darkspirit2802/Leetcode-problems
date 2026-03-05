@@ -10,5 +10,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
