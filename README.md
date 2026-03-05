@@ -24,6 +24,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -37,4 +38,9 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
