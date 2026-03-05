@@ -16,8 +16,17 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
