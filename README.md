@@ -6,11 +6,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
 ## Array
@@ -57,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
 ## Sorting
