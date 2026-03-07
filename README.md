@@ -21,6 +21,7 @@
 | [0015-3sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 ## Divide and Conquer
 |  |
@@ -67,4 +68,13 @@
 | ------- |
 | [0015-3sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
+| [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
