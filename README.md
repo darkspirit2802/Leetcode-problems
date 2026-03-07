@@ -39,6 +39,7 @@ https://leetcode.com/u/darkspirit1/
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
