@@ -37,6 +37,7 @@ https://leetcode.com/u/darkspirit1/
 | [0005-longest-palindromic-substring](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ https://leetcode.com/u/darkspirit1/
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 ## Linked List
 | Problem Name | Difficulty |
