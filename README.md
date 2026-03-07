@@ -131,5 +131,10 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3721-longest-balanced-subarray-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 <!---LeetCode Topics End-->
 
