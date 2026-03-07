@@ -1,4 +1,25 @@
-﻿# LeetCode Problems
+# LeetCode Problems 🚀
+
+This repository contains my solutions to **LeetCode problems** implemented in **C++**.  
+I solve problems daily to strengthen my **Data Structures & Algorithms** and prepare for **Software Engineering interviews**.
+Not all my problems are uploaded yet will update them slowly.
+
+## 📊 Progress
+
+- Problems Solved: **300+**
+- Language: **C++**
+- Platform: LeetCode
+- Focus: **DSA | Competitive Programming | Interview Prep**
+
+## 🔗 My LeetCode Profile
+
+https://leetcode.com/YOUR_USERNAME/
+ 
+ 
+ # LeetCode Problems
+
+ 
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
