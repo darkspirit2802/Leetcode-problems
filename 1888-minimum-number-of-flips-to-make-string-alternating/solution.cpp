@@ -1,5 +1,5 @@
 //Brute Force
-//time compl = 0(2n)
+//time compl = 0(n)
 //space compl = 0(2n)
 class Solution {
 public:
