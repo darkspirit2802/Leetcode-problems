@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
+| [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Dynamic Programming
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,18 +73,25 @@
 | [0015-3sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
+| [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Greedy
 |  |
 | ------- |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
+| [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
+| [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Binary Search
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
