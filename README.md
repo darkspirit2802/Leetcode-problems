@@ -33,6 +33,7 @@ https://leetcode.com/u/darkspirit1/
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ https://leetcode.com/u/darkspirit1/
 | [1046-last-stone-weight](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -102,6 +104,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
+| [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
@@ -213,5 +216,9 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
 
