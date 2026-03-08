@@ -29,6 +29,7 @@ https://leetcode.com/u/darkspirit1/
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -42,6 +43,7 @@ https://leetcode.com/u/darkspirit1/
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
@@ -219,6 +221,7 @@ https://leetcode.com/u/darkspirit1/
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
 
