@@ -1,3 +1,9 @@
+
+
+//Recursion and Memorization
+//T.C = 0(ones*zero*min(limt,zero or ones))
+//S.C = 0(ones*zero)
+
 class Solution {
 public:
     int M = 1e9 + 7;
