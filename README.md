@@ -51,6 +51,7 @@ https://leetcode.com/u/darkspirit1/
 | [1458-max-dot-product-of-two-subsequences](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3640-trionic-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3640-trionic-array-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ https://leetcode.com/u/darkspirit1/
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
