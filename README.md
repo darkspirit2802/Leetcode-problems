@@ -83,6 +83,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 ## Prefix Sum
 | Problem Name | Difficulty |
