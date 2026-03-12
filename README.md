@@ -146,6 +146,7 @@ https://leetcode.com/u/darkspirit1/
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +164,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,10 +226,15 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
 
