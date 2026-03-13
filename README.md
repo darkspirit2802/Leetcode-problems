@@ -73,6 +73,7 @@ https://leetcode.com/u/darkspirit1/
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3640-trionic-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3640-trionic-array-ii/) | Hard |
 ## Divide and Conquer
@@ -106,6 +107,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ https://leetcode.com/u/darkspirit1/
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -159,11 +162,13 @@ https://leetcode.com/u/darkspirit1/
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
