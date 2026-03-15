@@ -108,6 +108,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
+| [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -185,6 +186,7 @@ https://leetcode.com/u/darkspirit1/
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 | [3721-longest-balanced-subarray-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -243,5 +245,9 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
 
