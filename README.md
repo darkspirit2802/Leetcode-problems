@@ -67,6 +67,7 @@ https://leetcode.com/u/darkspirit1/
 | [1046-last-stone-weight](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
@@ -91,6 +92,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -109,6 +111,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
 | [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -141,6 +144,7 @@ https://leetcode.com/u/darkspirit1/
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -160,6 +164,7 @@ https://leetcode.com/u/darkspirit1/
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1046-last-stone-weight](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -218,6 +223,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
