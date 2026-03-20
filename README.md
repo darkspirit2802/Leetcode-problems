@@ -80,6 +80,7 @@ https://leetcode.com/u/darkspirit1/
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3640-trionic-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3640-trionic-array-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ https://leetcode.com/u/darkspirit1/
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ https://leetcode.com/u/darkspirit1/
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
