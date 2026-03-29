@@ -38,6 +38,7 @@ https://leetcode.com/u/darkspirit1/
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
