@@ -64,6 +64,7 @@ https://leetcode.com/u/darkspirit1/
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3640-trionic-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3640-trionic-array-ii/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ https://leetcode.com/u/darkspirit1/
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3640-trionic-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3640-trionic-array-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@ https://leetcode.com/u/darkspirit1/
 | [2751-robot-collisions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@ https://leetcode.com/u/darkspirit1/
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
