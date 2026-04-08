@@ -107,11 +107,13 @@ https://leetcode.com/u/darkspirit1/
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3640-trionic-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3640-trionic-array-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +244,7 @@ https://leetcode.com/u/darkspirit1/
 | [2751-robot-collisions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
