@@ -110,6 +110,7 @@ https://leetcode.com/u/darkspirit1/
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@ https://leetcode.com/u/darkspirit1/
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
