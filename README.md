@@ -72,6 +72,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0015-3sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
@@ -180,6 +181,7 @@ https://leetcode.com/u/darkspirit1/
 | [0005-longest-palindromic-substring](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
