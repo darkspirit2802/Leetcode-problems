@@ -6,7 +6,7 @@ Not all my problems are uploaded yet will update them slowly.
 
 ## 📊 Progress
 
-- Problems Solved: **300+**
+- Problems Solved: **400+**
 - Language: **C++**
 - Platform: LeetCode
 - Focus: **DSA | Competitive Programming | Interview Prep**
