@@ -41,6 +41,7 @@ https://leetcode.com/u/darkspirit1/
 | [2075-decode-the-slanted-ciphertext](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2833-furthest-point-from-origin](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
@@ -250,6 +251,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
+| [2833-furthest-point-from-origin](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
