@@ -85,6 +85,7 @@ https://leetcode.com/u/darkspirit1/
 | [0874-walking-robot-simulation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1046-last-stone-weight](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -309,6 +310,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -331,17 +333,20 @@ https://leetcode.com/u/darkspirit1/
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
