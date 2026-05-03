@@ -33,6 +33,7 @@ https://leetcode.com/u/darkspirit1/
 | [0132-palindrome-partitioning-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -391,6 +392,7 @@ https://leetcode.com/u/darkspirit1/
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
