@@ -82,6 +82,7 @@ https://leetcode.com/u/darkspirit1/
 | [0027-remove-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
@@ -172,6 +173,7 @@ https://leetcode.com/u/darkspirit1/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
@@ -322,6 +324,7 @@ https://leetcode.com/u/darkspirit1/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
