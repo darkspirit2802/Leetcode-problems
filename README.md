@@ -164,6 +164,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -210,6 +211,7 @@ https://leetcode.com/u/darkspirit1/
 | [0015-3sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0027-remove-element/) | Easy |
+| [0061-rotate-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
