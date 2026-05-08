@@ -31,6 +31,7 @@ https://leetcode.com/u/darkspirit1/
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
@@ -218,6 +219,7 @@ https://leetcode.com/u/darkspirit1/
 | [0027-remove-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1861-rotating-the-box](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
