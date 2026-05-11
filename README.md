@@ -90,6 +90,7 @@ https://leetcode.com/u/darkspirit1/
 | [0064-minimum-path-sum](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0189-rotate-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -254,6 +255,7 @@ https://leetcode.com/u/darkspirit1/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
