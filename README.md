@@ -102,6 +102,7 @@ https://leetcode.com/u/darkspirit1/
 | [1458-max-dot-product-of-two-subsequences](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -242,6 +243,7 @@ https://leetcode.com/u/darkspirit1/
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -260,6 +262,7 @@ https://leetcode.com/u/darkspirit1/
 | [0334-increasing-triplet-subsequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
