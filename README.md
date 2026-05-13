@@ -104,6 +104,7 @@ https://leetcode.com/u/darkspirit1/
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -163,6 +164,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -206,6 +208,7 @@ https://leetcode.com/u/darkspirit1/
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2615-sum-of-distances](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
