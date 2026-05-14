@@ -91,6 +91,7 @@ https://leetcode.com/u/darkspirit1/
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
+| [0169-majority-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
@@ -153,6 +154,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Bit Manipulation
@@ -207,6 +209,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -246,6 +249,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0015-3sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -304,6 +308,7 @@ https://leetcode.com/u/darkspirit1/
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [2833-furthest-point-from-origin](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
