@@ -4,9 +4,7 @@ public:
         int n = s.size();
         char temp;
         for(int ch = 0;ch<n/2;ch++){
-            temp = s[ch];
-            s[ch] = s[n-1-ch];
-            s[n-1-ch] = temp;
+            swap(s[ch],s[n-1-ch]);
         }
     }
 };
