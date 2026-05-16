@@ -100,6 +100,7 @@ https://leetcode.com/u/darkspirit1/
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
+| [0643-maximum-average-subarray-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0874-walking-robot-simulation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
@@ -233,6 +234,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
