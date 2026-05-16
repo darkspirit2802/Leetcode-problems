@@ -411,6 +411,7 @@ https://leetcode.com/u/darkspirit1/
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -419,6 +420,7 @@ https://leetcode.com/u/darkspirit1/
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -469,10 +471,12 @@ https://leetcode.com/u/darkspirit1/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
 
