@@ -93,6 +93,7 @@ https://leetcode.com/u/darkspirit1/
 | [0064-minimum-path-sum](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -306,6 +307,7 @@ https://leetcode.com/u/darkspirit1/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
