@@ -127,6 +127,7 @@ https://leetcode.com/u/darkspirit1/
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2540-minimum-common-value](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -228,6 +229,7 @@ https://leetcode.com/u/darkspirit1/
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [2540-minimum-common-value](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -259,6 +261,7 @@ https://leetcode.com/u/darkspirit1/
 | [0876-middle-of-the-linked-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1861-rotating-the-box](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2540-minimum-common-value](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -319,6 +322,7 @@ https://leetcode.com/u/darkspirit1/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [2540-minimum-common-value](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
