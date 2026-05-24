@@ -67,6 +67,7 @@ https://leetcode.com/u/darkspirit1/
 | [0788-rotated-digits](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1340-jump-game-v](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
@@ -109,6 +110,7 @@ https://leetcode.com/u/darkspirit1/
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1046-last-stone-weight](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1306-jump-game-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
@@ -280,6 +282,7 @@ https://leetcode.com/u/darkspirit1/
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1340-jump-game-v](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
