@@ -51,6 +51,7 @@ https://leetcode.com/u/darkspirit1/
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@ https://leetcode.com/u/darkspirit1/
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -378,6 +380,7 @@ https://leetcode.com/u/darkspirit1/
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
