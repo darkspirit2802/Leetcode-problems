@@ -149,6 +149,7 @@ https://leetcode.com/u/darkspirit1/
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -339,6 +340,7 @@ https://leetcode.com/u/darkspirit1/
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2540-minimum-common-value](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -369,6 +371,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
 | [3721-longest-balanced-subarray-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -506,5 +509,9 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
 
