@@ -133,6 +133,7 @@ https://leetcode.com/u/darkspirit1/
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -250,6 +251,7 @@ https://leetcode.com/u/darkspirit1/
 | [1345-jump-game-iv](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2540-minimum-common-value](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -522,11 +524,13 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
