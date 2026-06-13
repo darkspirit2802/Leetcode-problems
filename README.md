@@ -53,6 +53,7 @@ https://leetcode.com/u/darkspirit1/
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@ https://leetcode.com/u/darkspirit1/
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +401,7 @@ https://leetcode.com/u/darkspirit1/
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
