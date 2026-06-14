@@ -222,6 +222,7 @@ https://leetcode.com/u/darkspirit1/
 | [0021-merge-two-sorted-lists](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -296,6 +297,7 @@ https://leetcode.com/u/darkspirit1/
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1861-rotating-the-box](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2540-minimum-common-value](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -439,6 +441,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
