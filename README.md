@@ -53,6 +53,7 @@ https://leetcode.com/u/darkspirit1/
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -403,6 +404,7 @@ https://leetcode.com/u/darkspirit1/
 | [2751-robot-collisions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
