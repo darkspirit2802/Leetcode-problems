@@ -241,6 +241,7 @@ https://leetcode.com/u/darkspirit1/
 | [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
