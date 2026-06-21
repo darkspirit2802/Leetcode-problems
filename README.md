@@ -129,6 +129,7 @@ https://leetcode.com/u/darkspirit1/
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1840-maximum-building-height](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1861-rotating-the-box](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1861-rotating-the-box/) | Medium |
@@ -324,6 +325,7 @@ https://leetcode.com/u/darkspirit1/
 | [1340-jump-game-v](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1840-maximum-building-height](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -348,6 +350,7 @@ https://leetcode.com/u/darkspirit1/
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -571,5 +574,9 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
 
