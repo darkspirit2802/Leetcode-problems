@@ -39,6 +39,7 @@ https://leetcode.com/u/darkspirit1/
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -268,6 +269,7 @@ https://leetcode.com/u/darkspirit1/
 | [0496-next-greater-element-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -398,6 +400,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0169-majority-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
