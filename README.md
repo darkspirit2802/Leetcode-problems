@@ -57,6 +57,7 @@ https://leetcode.com/u/darkspirit1/
 | [3612-process-string-with-special-operations-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ https://leetcode.com/u/darkspirit1/
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,6 +543,7 @@ https://leetcode.com/u/darkspirit1/
 | [0131-palindrome-partitioning](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,6 +560,7 @@ https://leetcode.com/u/darkspirit1/
 | [3548-equal-sum-grid-partition-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
