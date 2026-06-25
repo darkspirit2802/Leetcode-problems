@@ -210,6 +210,7 @@ https://leetcode.com/u/darkspirit1/
 | [2438-range-product-queries-of-powers](https://github.com/darkspirit2802/Leetcode-problems/tree/master/2438-range-product-queries-of-powers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Prefix Sum
