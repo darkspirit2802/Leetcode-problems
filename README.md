@@ -164,6 +164,7 @@ https://leetcode.com/u/darkspirit1/
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -294,6 +295,7 @@ https://leetcode.com/u/darkspirit1/
 | [2784-check-if-array-is-good](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -562,6 +564,7 @@ https://leetcode.com/u/darkspirit1/
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
