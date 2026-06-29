@@ -177,6 +177,7 @@ https://leetcode.com/u/darkspirit1/
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3454-separate-squares-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3454-separate-squares-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -413,6 +414,7 @@ https://leetcode.com/u/darkspirit1/
 | [2540-minimum-common-value](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3454-separate-squares-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3454-separate-squares-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -450,6 +452,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3161-block-placement-queries/) | Hard |
+| [3454-separate-squares-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3454-separate-squares-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3721-longest-balanced-subarray-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -615,5 +618,9 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3454-separate-squares-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3454-separate-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
 
