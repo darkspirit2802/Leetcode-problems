@@ -43,6 +43,7 @@ https://leetcode.com/u/darkspirit1/
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -141,6 +142,7 @@ https://leetcode.com/u/darkspirit1/
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
