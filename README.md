@@ -41,6 +41,7 @@ https://leetcode.com/u/darkspirit1/
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -289,6 +290,7 @@ https://leetcode.com/u/darkspirit1/
 | [0874-walking-robot-simulation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -313,6 +315,7 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
