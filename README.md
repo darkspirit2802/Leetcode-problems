@@ -29,6 +29,7 @@ https://leetcode.com/u/darkspirit1/
 | [0003-longest-substring-without-repeating-characters](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -493,6 +494,7 @@ https://leetcode.com/u/darkspirit1/
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0085-maximal-rectangle](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
