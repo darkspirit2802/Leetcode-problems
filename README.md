@@ -89,6 +89,7 @@ https://leetcode.com/u/darkspirit1/
 | [3225-maximum-score-from-grid-operations](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3640-trionic-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3640-trionic-array-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -188,6 +189,7 @@ https://leetcode.com/u/darkspirit1/
 | [3548-equal-sum-grid-partition-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3640-trionic-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3640-trionic-array-ii/) | Hard |
@@ -409,6 +411,7 @@ https://leetcode.com/u/darkspirit1/
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3013-divide-an-array-into-subarrays-with-minimum-cost-ii/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3510-minimum-pair-removal-to-sort-array-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -426,6 +429,7 @@ https://leetcode.com/u/darkspirit1/
 | [3454-separate-squares-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3454-separate-squares-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Counting
@@ -472,6 +476,7 @@ https://leetcode.com/u/darkspirit1/
 | [2092-find-all-people-with-secret](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +488,7 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -635,5 +641,9 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3454-separate-squares-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3454-separate-squares-ii/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
 
