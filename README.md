@@ -126,6 +126,7 @@ https://leetcode.com/u/darkspirit1/
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0874-walking-robot-simulation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -290,6 +291,7 @@ https://leetcode.com/u/darkspirit1/
 | [0189-rotate-array](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
@@ -385,6 +387,7 @@ https://leetcode.com/u/darkspirit1/
 | [0018-4sum](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0502-ipo](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0767-reorganize-string](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1288-remove-covered-intervals](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1288-remove-covered-intervals/) | Medium |
