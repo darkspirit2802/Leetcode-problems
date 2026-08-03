@@ -81,6 +81,7 @@ https://leetcode.com/u/darkspirit1/
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0788-rotated-digits](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -134,6 +135,7 @@ https://leetcode.com/u/darkspirit1/
 | [0643-maximum-average-subarray-i](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/darkspirit2802/Leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0874-walking-robot-simulation](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1046-last-stone-weight](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -300,6 +302,7 @@ https://leetcode.com/u/darkspirit1/
 | [0396-rotate-function](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1840-maximum-building-height/) | Hard |
@@ -741,5 +744,17 @@ https://leetcode.com/u/darkspirit1/
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
 
