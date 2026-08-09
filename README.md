@@ -85,6 +85,7 @@ https://leetcode.com/u/darkspirit1/
 | [0788-rotated-digits](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
+| [1140-stone-game-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1340-jump-game-v](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1340-jump-game-v/) | Hard |
@@ -142,6 +143,7 @@ https://leetcode.com/u/darkspirit1/
 | [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1046-last-stone-weight](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1140-stone-game-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -264,6 +266,7 @@ https://leetcode.com/u/darkspirit1/
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -309,6 +312,7 @@ https://leetcode.com/u/darkspirit1/
 | [0628-maximum-product-of-three-numbers](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1622-fancy-sequence](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1622-fancy-sequence/) | Hard |
@@ -768,16 +772,19 @@ https://leetcode.com/u/darkspirit1/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/darkspirit2802/Leetcode-problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/darkspirit2802/Leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
 
